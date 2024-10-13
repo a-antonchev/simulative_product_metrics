@@ -1,0 +1,6 @@
+# Enviroments
+.venv
+
+# Source files
+/*.csv
+/*.txt
